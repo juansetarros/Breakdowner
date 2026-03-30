@@ -1,0 +1,9 @@
+Builds/
+Binaries/
+*.exe
+*.dll
+*.vst3
+*.pdb
+*.user
+.vs/
+JuceLibraryCode/
