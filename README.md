@@ -1,4 +1,4 @@
-# Breakdowner
+# Breakdowner Beta
 
 ## Overview
 Distortion Plugin made by Metalheads, for Metalheads. Want your riffs, breakdowns, and chugs to sound powerful? Breakdowner got you.
@@ -51,3 +51,7 @@ A creative audio effect plugin built with JUCE that allows users to distort any 
 ## Screenshots
 <img width="559" height="671" alt="Captura de pantalla 2026-03-27 153338" src="https://github.com/user-attachments/assets/6e91c587-166e-45ca-b18a-1abe2c3177a7" />
 
+---
+
+## License
+MIT License
